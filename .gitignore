@@ -38,3 +38,6 @@ jspm_packages
 
 # tern settings
 .tern-project
+
+# API token secret
+client_secret.json
